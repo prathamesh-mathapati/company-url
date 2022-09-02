@@ -2,8 +2,6 @@
     border-radius: 50%;
     height: 1px;
     width: 2px;
-    /* padding: .01px 2px; */
-    /* padding-right: 10px; */
     font-size: .5rem;
     align-items: center;
     text-align: center;
@@ -34,7 +32,6 @@
 
 .font:hover {
     color: rgb(13, 204, 238) !important;
-    /* background-color: black; */
 }
 
 .home {
@@ -42,7 +39,6 @@
 }
 
 .gap {
-    /* opacity: .6; */
     gap: 10rem;
 
 }
@@ -83,7 +79,6 @@
 .car-firt {
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: flex-end;
     padding: 1rem;
 }
@@ -92,7 +87,6 @@
     background-color: rgb(196, 192, 192);
     display: flex;
     align-items: flex-end;
-    justify-content: end;
     text-align: center;
 
 
@@ -107,6 +101,5 @@
     font-size: 3rem;
     color: skyblue;
     padding-bottom: 1.1rem;
-    /* padding: .5rem; */
     margin: .5rem;
 }
