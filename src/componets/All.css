@@ -86,8 +86,9 @@
 .car-colore {
     background-color: rgb(196, 192, 192);
     display: flex;
-    align-items: flex-end;
+    padding-left: 80%;
     text-align: center;
+
 
 
 
