@@ -2,8 +2,7 @@ import React from "react";
 import '../componets/All.css'
 import Heding from '../componets/Heding'
 const Main = () => {
-    const arrow = '<'
-    const larrow = '>'
+
 
     return (
         <>
