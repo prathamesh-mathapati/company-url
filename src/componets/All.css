@@ -1,0 +1,112 @@
+.circule {
+    border-radius: 50%;
+    height: 1px;
+    width: 2px;
+    /* padding: .01px 2px; */
+    /* padding-right: 10px; */
+    font-size: .5rem;
+    align-items: center;
+    text-align: center;
+
+}
+
+.font {
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+.date {
+    display: flex;
+    gap: 60rem
+}
+
+.ca {
+    background-color: rgb(236, 231, 231);
+}
+
+.new {
+    color: rgb(15, 176, 224);
+    background-color: rgb(214, 219, 221);
+}
+
+.font:hover {
+    color: rgb(13, 204, 238) !important;
+    /* background-color: black; */
+}
+
+.home {
+    font-size: 2.5rem;
+}
+
+.gap {
+    /* opacity: .6; */
+    gap: 10rem;
+
+}
+
+.start1 {
+    align-items: flex-start !important;
+}
+
+.larrow {
+    color: white;
+    padding-right: -3rem;
+    margin: 0%;
+}
+
+.jone {
+    color: rgb(158, 155, 155);
+}
+
+.first {
+    background-color: white !important;
+    font-size: 1rem;
+    width: 1rem;
+    text-align: center;
+    align-items: center;
+
+}
+
+.seconed {
+    background-color: rgb(204, 200, 200) !important;
+    font-size: 1rem;
+    width: 1rem;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+.car-firt {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: flex-end;
+    padding: 1rem;
+}
+
+.car-colore {
+    background-color: rgb(196, 192, 192);
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    text-align: center;
+
+
+
+}
+
+.ca:hover {
+    border-color: skyblue;
+}
+
+.car-colore h5 {
+    font-size: 3rem;
+    color: skyblue;
+    padding-bottom: 1.1rem;
+    /* padding: .5rem; */
+    margin: .5rem;
+}
