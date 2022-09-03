@@ -94,7 +94,38 @@
 
 }
 
-.ca:hover {
+@media(max-width:1199px) {
+    .car-colore {
+        padding-left: 75%;
+    }
+}
+
+@media(max-width:994px) {
+    .car-colore {
+        padding-left: 65%;
+    }
+}
+
+@media(max-width:771px) {
+    .car-colore {
+        padding-left: 60%;
+    }
+}
+
+@media(max-width:500px) {
+    .car-colore {
+        padding-left: 50%;
+    }
+}
+
+@media(max-width:427px) {
+    .car-colore {
+        padding-left: 47%;
+    }
+}
+
+ca:hover {
+
     border-color: skyblue;
 }
 
